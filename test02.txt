@@ -1,3 +1,5 @@
 Now lets make some changes in the remore(origin)
 lest make some local changes
 test02
+
+changed the type to txt. on test01 branch
