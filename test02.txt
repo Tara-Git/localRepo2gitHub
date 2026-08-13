@@ -5,3 +5,4 @@ test02
 changed the type to txt. on test01 branch
 
 lest check he difference in origin and the local one by checking out to origin/test01 and then switching to the test01.
+lest check he difference in origin and the local one by switching  to origin/test01 and then switching to the test01.
